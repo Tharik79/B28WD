@@ -1,4 +1,4 @@
-// Print summ of all numbers in an array.
+// Print all numbers in an array.
 
 let marks = [10, 20, 30];
 
